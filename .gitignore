@@ -23,3 +23,6 @@ bus.jpg
 
 # VS Code
 .vscode/
+
+# Packaged datasets
+*.zip
