@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+raw/
+dataset/
+
+# YOLO outputs
+runs/
+
+# Verification outputs
+verification/
+
+# Model weights
+*.pt
+
+# Temporary sample
+bus.jpg
+
+# VS Code
+.vscode/
